@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "sepsmart-locked-transport"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Xinzhuo"
+    email: "Lxz990425@outlook.com@example.com"
+repository-code: "https://github.com/LiXinzhuo0425/sepsmart-locked-transport"
+license: "MIT"
+version: "v1.0.0"
+date-released: 2026-03-30
+abstract: >
+  Code repository for archived GEO-based locked-model development and external
+  transport evaluation of a six-gene sepsis host-response signature.
