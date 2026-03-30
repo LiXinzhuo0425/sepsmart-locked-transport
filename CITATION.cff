@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Li"
     given-names: "Xinzhuo"
-    email: "Lxz990425@outlook.com@example.com"
+    email: "Lxz990425@outlook.com"
 repository-code: "https://github.com/LiXinzhuo0425/sepsmart-locked-transport"
 license: "MIT"
 version: "v1.0.0"
